@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+    <dados-pessoais>
+        <nome>Abrahão</nome>
+        <idade>21</idade>
+    </dados-pessoais>
+    <escolaridade>
+        <faculdade>
+            <nome-instituicao>UNISINOS</nome-instituicao>
+            <curso>Jogos Digitais</curso>
+            <ano-ingresso>2023</ano-ingresso>
+            <ano-conclusao>2026</ano-conclusao>
+        </faculdade>
+        <cursos>
+            <curso>
+                <nome-instituicao>Escola São Judas Tadeu</nome-instituicao>
+                <curso>Gestão Empresarial</curso>
+                <ano-conclusao>2022</ano-conclusao>
+            </curso>
+            <curso>
+                <nome-instituicao>Alura</nome-instituicao>
+                <curso>Trilha de Desenvolvimento em Java</curso>
+                <ano-conclusao>2024</ano-conclusao>
+            </curso>
+        </cursos>
+    </escolaridade>
+    <idiomas>
+        <idioma>
+            <nome>Inglês</nome>
+            <nivel>Intermediário/B2</nivel>
+        </idioma>
+        <idioma>
+            <nome>Espanhol</nome>
+            <nivel>Básico</nivel>
+        </idioma>
+    </idiomas>
+</curriculo>

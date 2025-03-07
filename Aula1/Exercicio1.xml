@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receituario>
+    <paciente>
+        <nome>Ana Maria Marina</nome>
+        <idade>17</idade> 
+    </paciente>
+    <medicamentos>
+        <uso-interno>
+            <tipo-medicamento>Xarope</tipo-medicamento>
+            <nome-medicamento>SemTosse</nome-medicamento>
+            <dosagem>1 colher 3x ao dia</dosagem>
+        </uso-interno>
+        <uso-externo>
+            <tipo-medicamento>Pomada</tipo-medicamento>
+            <nome-medicamento>Gyellow</nome-medicamento>
+            <dosagem>Aplicar 1x por dia antes de se deitar</dosagem>
+        </uso-externo>
+    </medicamentos>
+</receituario>
