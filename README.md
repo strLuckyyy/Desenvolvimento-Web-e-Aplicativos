@@ -1,2 +1,14 @@
 # Desenvolvimento-Web-e-Aplicativos
- Disciplina do 4º semestre do curso de Jogos Digitais na Unisinos
+### 4º Semestre - 01/25
+  * **Matéria**: Desenvolvimento Web e Aplicativos
+  * **Professor**: Diogines D'Avila Goldoni
+  * **Tecnologias**:
+<div>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=xml,html,css,js,react)](https://skillicons.dev)
+ 
+</div>
+ 
+ * Atividades -> ... <br/>
+ * Provas     -> ... <br/>
+ * Trabalhos  -> ... <br/>
